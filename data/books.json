@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "title": "Feyyan - Öfke",
+    "year": "2024",
+    "publisher": "Mi Yayıncılık",
+    "type": "Roman",
+    "description": "Aşkın öfkesi ve öfkenin aşkı... İnsan ruhunun en derin katmanlarına yolculuk.",
+    "available": true,
+    "purchaseLink": "https://www.idefix.com/feyyan-ofke-mustafa-erkenekli-mi-yayinlari-p-2367297?vendorId=2095&ref=akakce&v=1.27.7",
+    "isbn": "978-625-94452-74-6",
+    "cover": "/images/books/feyyan-cover.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Yüreğin Seyir Defteri",
+    "year": "2022",
+    "publisher": "İstanbul Kadran Yayınevi",
+    "type": "Şiir",
+    "description": "Kalbin derinliklerinden çıkan şiirler, ruha dokunan mısralar.",
+    "available": true,
+    "purchaseLink": "https://kadranyayinevi.com/urun/yuregin-seyir-defteri-mustafa-erkenekli/",
+    "isbn": "978-625-7213-41-7",
+    "cover": "/images/books/yuregin-seyir-defteri-cover.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Aşkın Öl Dediği Yerde",
+    "year": "2018",
+    "publisher": "Yade Yayınları",
+    "type": "Roman",
+    "description": "Sinan'ın tüm istediği mutlu bir evliliğin sona ermesi, yurt dışında ticaretle uğraşıp babasının yanına yerleşip geçmişi unutarak yeni bir hayata yelken açmaktır.",
+    "available": true,
+    "purchaseLink": "https://www.hepsiburada.com/askin-ol-dedigi-yerde-pm-HB00000AHPYC",
+    "isbn": "978-605-822-457-5",
+    "cover": "/images/books/askin-ol-dedigi-yerde-cover.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Gül Batımı",
+    "year": "2016",
+    "publisher": "Ankara İtalik Yayınevi",
+    "type": "Şiir",
+    "description": "2016 yılı Nisan ayında yayınlanan şiir kitabı.",
+    "available": false,
+    "isbn": "978-605-XXXX-XX-X",
+    "cover": "/images/books/gul-batimi-cover.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Damla Kuyusu",
+    "year": "2011",
+    "publisher": "Malatya Araştırmaları Derneği Yayınları",
+    "type": "Şiir",
+    "description": "İlk şiir kitabı olan Damla Kuyusu, Mayıs 2011 yılında yayınlandı.",
+    "available": false,
+    "isbn": "978-605-XXXX-XX-X",
+    "cover": "/images/books/damla-kuyusu-cover.jpg"
+  }
+]
