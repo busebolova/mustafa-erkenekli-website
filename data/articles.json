@@ -75,5 +75,16 @@
     "content": "deneme 4567",
     "readTime": "3 dk",
     "id": "1751378140750"
+  },
+  {
+    "title": "deneme78",
+    "date": "01.07.2025",
+    "category": "Kültür",
+    "type": "Deneme",
+    "image": "/images/poetry/birds-pattern.png",
+    "excerpt": "deneme 7",
+    "content": "deneme 4567",
+    "readTime": "5 dk",
+    "id": "1751378167299"
   }
 ]
