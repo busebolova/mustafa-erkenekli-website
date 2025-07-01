@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Kuş Deseni",
+    "url": "/images/poetry/birds-pattern.png",
+    "category": "Şiir Görselleri",
+    "description": "Şiirler için kuş desenli arka plan"
+  },
+  {
+    "id": "2",
+    "name": "Bahar Çiçekleri",
+    "url": "/images/poetry/spring-flowers.png",
+    "category": "Şiir Görselleri",
+    "description": "Bahar temalı şiir görseli"
+  },
+  {
+    "id": "3",
+    "name": "Karahindiba Tohumları",
+    "url": "/images/poetry/dandelion-seeds.png",
+    "category": "Şiir Görselleri",
+    "description": "Karahindiba tohumları görseli"
+  },
+  {
+    "id": "4",
+    "name": "Vintage Güller",
+    "url": "/images/poetry/vintage-roses.png",
+    "category": "Şiir Görselleri",
+    "description": "Vintage tarzda gül görseli"
+  },
+  {
+    "id": "5",
+    "name": "Karışık Çiçekler",
+    "url": "/images/poetry/mixed-flowers.png",
+    "category": "Şiir Görselleri",
+    "description": "Karışık çiçek desenli görsel"
+  },
+  {
+    "id": "6",
+    "name": "Feyyan Kapak",
+    "url": "/images/books/feyyan-cover.jpg",
+    "category": "Kitap Kapakları",
+    "description": "Feyyan - Öfke kitabının kapak görseli"
+  },
+  {
+    "id": "7",
+    "name": "Yüreğin Seyir Defteri Kapak",
+    "url": "/images/books/yuregin-seyir-defteri-cover.jpg",
+    "category": "Kitap Kapakları",
+    "description": "Yüreğin Seyir Defteri kitabının kapak görseli"
+  },
+  {
+    "id": "8",
+    "name": "Aşkın Öl Dediği Yerde Kapak",
+    "url": "/images/books/askin-ol-dedigi-yerde-cover.jpg",
+    "category": "Kitap Kapakları",
+    "description": "Aşkın Öl Dediği Yerde kitabının kapak görseli"
+  },
+  {
+    "id": "9",
+    "name": "Gül Batımı Kapak",
+    "url": "/images/books/gul-batimi-cover.jpg",
+    "category": "Kitap Kapakları",
+    "description": "Gül Batımı kitabının kapak görseli"
+  },
+  {
+    "id": "10",
+    "name": "Damla Kuyusu Kapak",
+    "url": "/images/books/damla-kuyusu-cover.jpg",
+    "category": "Kitap Kapakları",
+    "description": "Damla Kuyusu kitabının kapak görseli"
+  }
+]
