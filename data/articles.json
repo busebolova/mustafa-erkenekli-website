@@ -64,5 +64,16 @@
     "content": "kadran2",
     "readTime": "5 dk",
     "id": "1751377797251"
+  },
+  {
+    "title": "deneme6",
+    "date": "01.07.2025",
+    "category": "Kişisel",
+    "type": "İnceleme",
+    "image": "/images/poetry/spring-flowers.png",
+    "excerpt": "deneme 4567",
+    "content": "deneme 4567",
+    "readTime": "3 dk",
+    "id": "1751378140750"
   }
 ]
