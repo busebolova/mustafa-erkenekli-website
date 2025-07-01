@@ -1,0 +1,62 @@
+{
+  "personalInfo": {
+    "name": "Mustafa Erkenekli",
+    "birthYear": "1972",
+    "birthPlace": "Adıyaman, Gölbaşı",
+    "currentLocation": "Ankara",
+    "profession": "TCDD"
+  },
+  "biography": [
+    "1972 yılında Adıyaman'ın Gölbaşı ilçesinde doğmuştur. İlkokulu Gölbaşı'ndaki Cumhuriyet İlkokulu'nda, ortaokulu Gölbaşı Ortaokulu'nda bitirdikten sonra 1986 yılında girdiği kurumlar sınavı sonucunda Eskişehir Demiryolu Meslek Lisesi'ni kazanmış ve lise eğitimini burada tamamlamıştır.",
+    "1989 yılında tamamladığı lise eğitimi sonucunda Hatay'ın Payas ilçesindeki TCDD Lojistik Müdürlüğü'nde memuriyet hayatına başlamıştır. Aynı sene Yıldız Üniversitesi Demiryolu İnşaatı ve İşletmeciliği Bölümünü kazanmış, okula kayıt yaptırmasına rağmen TCDD Genel Müdürlüğü tarafından mecburi hizmeti ertelenmediği için yükseköğrenime devam edememiştir. Daha sonra Anadolu Üniversitesi Açık Öğretim Fakültesi İşletme bölümüne kayıt yaptırmış ve oradan mezun olmuştur.",
+    "1989 yılı Ağustos ayında Hatay'ın Payas ilçesinde TCDD bünyesinde çalışmaya başlayan Mustafa Erkenekli, 1993 yılında Adıyaman'ın Gölbaşı ilçesine, 2008 yılında Malatya'ya ve 2024 yılının Ekim ayında Ankara'ya tayin olmuş ve Ankara'da çalışma hayatına devam etmektedir.",
+    "İlk şiirlerini 4. sınıfta yazmaya başladı. Şair olmasında çocuk denecek yaşta on yedi bin nüfuslu küçük bir ilçe olan Gölbaşı'ndan Eskişehir'e gitmesinin yani gurbette yaşamasının etkisi vardır. Mustafa Erkenekli, aşk, sevda, vatan, millet duygularını da önde tutarak, milli ve manevi duygulara yakın olmaya çaba göstermektedir."
+  ],
+  "literaryJourney": [
+    "2000'li yılların başında Merhum Şair Bahaettin KARAKOÇ ile tanıştıktan sonra üstadın 'Sen şairsin, çünkü yazdıklarında zorlama tek mısra yok. Sakın kalemi bırakma ve yazmaya devam et' şeklindeki teşvik edici sözleriyle kaleme dört elle sarılan şairin şiirlerindeki ivme tam da o dönemden sonra gerçekleşmiştir.",
+    "2013 yılında Ankara'da düzenlenen bir etkinlikte merhum şair Cemal SAFİ ile tanışan ve onun da şiirleri hakkındaki övgüsüne mazhar olan şair, Türk şiirinin iki büyük ustasından duyduğu iltifatlarla yazmaya devam etmiştir."
+  ],
+  "influences": [
+    "Abdurrahim Karakoç",
+    "Bahaettin Karakoç",
+    "Hayati Vasfi Taşyürek",
+    "Mehmet Akif Ersoy",
+    "Cemal Safi",
+    "Âşık Mahzuni Şerif"
+  ],
+  "publications": [
+    "Türk Ay",
+    "Çağdaş Gölbaşı",
+    "Alternatif Bakış",
+    "Adıyaman GAP Olay",
+    "Malatya Hakimiyet",
+    "Malatya Büyükşehir",
+    "Malatya Net Haber",
+    "AdanaCeyhan CRTV Haber",
+    "Adana Bakış",
+    "Mavi Çınar",
+    "Anadolu'm",
+    "Kardelen",
+    "Sevgi Yolu",
+    "Ortanca",
+    "Başarı Edebiyat",
+    "Bir Edebiyat Yaprağı",
+    "Hece Taşları",
+    "Mahzunice",
+    "Herfene",
+    "Kümbet",
+    "Çıngı",
+    "Töre"
+  ],
+  "anthologies": ["Anadolu Âşıkları", "Şair Türk Antolojisi", "Antalya Güllük Güldestesi", "Beydağı Sanat Günleri"],
+  "testimonials": [
+    {
+      "quote": "Sen şairsin, çünkü yazdıklarında zorlama tek mısra yok. Sakın kalemi bırakma ve yazmaya devam et.",
+      "author": "Bahaettin Karakoç"
+    },
+    {
+      "quote": "Onunla tanışmak demek kendimi tanımak demekti.",
+      "author": "Mustafa Erkenekli, Bahaettin Karakoç için"
+    }
+  ]
+}
