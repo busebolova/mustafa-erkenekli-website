@@ -68,5 +68,17 @@
     "isbn": "978-605-822-457-5",
     "cover": "/images/books/yuregin-seyir-defteri-cover.jpg",
     "id": "1751378940243"
+  },
+  {
+    "title": "deneme",
+    "year": "deneme",
+    "publisher": "Ankara Yade Kitap",
+    "type": "Hikaye",
+    "description": "deneme",
+    "available": false,
+    "purchaseLink": "",
+    "isbn": "978-605-822-457-5",
+    "cover": "/images/books/damla-kuyusu-cover.jpg",
+    "id": "1751379399614"
   }
 ]
