@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Gölbaşı'na Serenat",
+    "date": "14 Eylül 2022",
+    "category": "Memleket",
+    "image": "/images/poetry/birds-pattern.png",
+    "excerpt": "Batıda Pazarcık var, doğuda Doğanşehir, / Cennetten en müstesna köşe bizim Gölbaşı...",
+    "content": "Batıda Pazarcık var, doğuda Doğanşehir,\nCennetten en müstesna köşe bizim Gölbaşı.\nBu memleket, toprağa bereket yağan şehir,\nİkliminden tat alır, fıstık, üzüm Gölbaşı.\n\nİstasyondan ses gelir tren edince tehir,\nYazın gurbetçileri ağırlar bütün şehir.\nMevsime göre Göksu, bazen çay bazen nehir,\nGölde bir can yitince bitmez sızım Gölbaşı.\n\n— Mustafa Erkenekli\n14.09.2022",
+    "dedication": ""
+  },
+  {
+    "id": "2",
+    "title": "Köz Ahbaplığı",
+    "date": "07 Mayıs 2025",
+    "category": "Aşk",
+    "image": "/images/poetry/spring-flowers.png",
+    "excerpt": "Kolay görünse bile sana beni unutmak, / Sahte bir tebessüme kanınca hatırlarsın...",
+    "content": "Kolay görünse bile sana beni unutmak,\nSahte bir tebessüme kanınca hatırlarsın.\nAnlarsın neymiş koru yüreğinde uyutmak,\nGözlerin dumanlanıp yanınca hatırlarsın.\n\n— Mustafa Erkenekli\n07.05.2025 - Ankara",
+    "dedication": ""
+  },
+  {
+    "id": "3",
+    "title": "Sevda Türküsü",
+    "date": "12 Mart 2024",
+    "category": "Aşk",
+    "image": "/images/poetry/vintage-roses.png",
+    "excerpt": "Yüreğimde bir türkü var, / Senin adınla başlayan...",
+    "content": "Yüreğimde bir türkü var,\nSenin adınla başlayan.\nHer nefesimde bir sızı,\nSenin yokluğunla yaşayan.\n\nGözlerinde kaybolmuşum,\nBir denizde yüzer gibi.\nSevdamız bir masal olmuş,\nSonsuzluğa sürer gibi.\n\n— Mustafa Erkenekli\n12.03.2024",
+    "dedication": "Sevgili eşime..."
+  }
+]
