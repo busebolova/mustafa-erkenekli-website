@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Şiirin Günümüzdeki Yeri",
+    "date": "15 Mart 2024",
+    "category": "Edebiyat",
+    "type": "Makale",
+    "image": "/images/poetry/mixed-flowers.png",
+    "excerpt": "Modern dünyada şiirin rolü ve geleceği üzerine düşünceler...",
+    "readTime": "5 dk",
+    "content": "# Şiirin Günümüzdeki Yeri\n\nŞiir, insanlık tarihinin en eski sanat formlarından biridir. İnsanlar henüz yazıyı keşfetmeden önce bile, duygularını, düşüncelerini ve hikayelerini şiirsel bir dille aktarmışlardır.\n\n## Modern Dünyada Şiir\n\nGünümüzde teknolojinin hızla gelişmesi ve dijital platformların yaygınlaşmasıyla birlikte, şiirin de kendine yeni ifade alanları bulduğunu görüyoruz.\n\n**Şiirin Dijital Dönüşümü**\n\nSosyal medya platformları, şairlerin eserlerini daha geniş kitlelere ulaştırmasını sağlamıştır. Instagram, Twitter ve TikTok gibi platformlarda kısa şiirler büyük ilgi görmektedir.\n\n**Gençlerin Şiire İlgisi**\n\nÖzellikle genç nesil, şiiri hem okuma hem de yazma konusunda yeniden keşfetmektedir. Bu durum, şiirin gelecekte de varlığını sürdüreceğinin önemli bir göstergesidir.\n\n## Sonuç\n\nŞiir, her dönemde kendini yenilemeyi başaran bir sanat dalıdır. Gelecekte de bu özelliğini koruyarak varlığını sürdürecektir."
+  },
+  {
+    "id": "2",
+    "title": "Edebiyatın Toplumsal Rolü",
+    "date": "22 Şubat 2024",
+    "category": "Toplum",
+    "type": "Deneme",
+    "image": "/images/poetry/vintage-roses.png",
+    "excerpt": "Edebiyatın toplum üzerindeki etkisi ve sosyal değişimdeki rolü...",
+    "readTime": "7 dk",
+    "content": "# Edebiyatın Toplumsal Rolü\n\nEdebiyat, sadece estetik bir değer taşımaz; aynı zamanda toplumsal değişimin önemli bir aracıdır.\n\n## Toplumsal Bilinç Oluşturma\n\nEdebiyat eserleri, okuyucularında toplumsal sorunlara karşı farkındalık yaratır. Bu farkındalık, zamanla toplumsal değişimin temelini oluşturur.\n\n## Kültürel Aktarım\n\nEdebiyat, bir toplumun kültürel değerlerini gelecek nesillere aktarmanın en etkili yollarından biridir.\n\n## Dil ve Kimlik\n\nŞiir ve edebiyat, bir milletin dilini ve kimliğini koruma konusunda da önemli bir rol oynar. Özellikle şiir, dilin en güzel ve etkili kullanımını örnekler.\n\n## Sonuç\n\nEdebiyat, toplumsal değişimin hem aracı hem de tanığıdır. Geleceğe dair umutlarımızı ve endişelerimizi dile getiren en güçlü araçlardan biridir."
+  },
+  {
+    "id": "3",
+    "title": "Gurbette Şiir Yazmak",
+    "date": "10 Ocak 2024",
+    "category": "Kişisel",
+    "type": "Deneme",
+    "image": "/images/poetry/dandelion-seeds.png",
+    "excerpt": "Memleketten uzakta yaşamanın şiire etkisi üzerine kişisel düşünceler...",
+    "readTime": "6 dk",
+    "content": "# Gurbette Şiir Yazmak\n\nGurbet, şairin ruhunda derin izler bırakan bir deneyimdir. Memleketten uzakta yaşamak, hem acı hem de ilham vericidir.\n\n## Özlemin Gücü\n\nGurbette yaşayan bir şair için özlem, en büyük ilham kaynağıdır. Her şiir, bir parça memleket hasretiyle yazılır.\n\n## Dil ve Kültür\n\nAna dilini koruma mücadelesi, gurbetteki şairin en önemli görevlerinden biridir. Şiir, bu mücadelenin en güçlü silahıdır.\n\n## Evrensel Duygular\n\nGurbet deneyimi, şairi daha evrensel duygulara yönlendirir. İnsan olmanın ortak paydasını keşfetmesini sağlar.\n\n## Sonuç\n\nGurbet, şairi olgunlaştırır ve derinleştirir. En güzel şiirler, belki de bu hasret ve özlemden doğar."
+  }
+]
