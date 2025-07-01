@@ -56,5 +56,17 @@
     "available": false,
     "isbn": "978-605-XXXX-XX-X",
     "cover": "/images/books/damla-kuyusu-cover.jpg"
+  },
+  {
+    "title": "deneme2231",
+    "year": "deneme2231",
+    "publisher": "deneme2231",
+    "type": "Hikaye",
+    "description": "deneme2231",
+    "available": false,
+    "purchaseLink": "",
+    "isbn": "978-605-822-457-5",
+    "cover": "/images/books/yuregin-seyir-defteri-cover.jpg",
+    "id": "1751378940243"
   }
 ]
