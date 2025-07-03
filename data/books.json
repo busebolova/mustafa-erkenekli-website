@@ -80,5 +80,16 @@
     "isbn": "978-605-822-457-5",
     "cover": "/images/books/damla-kuyusu-cover.jpg",
     "id": "1751379399614"
+  },
+  {
+    "id": "1751533383808",
+    "title": "deneeme",
+    "year": "deneme",
+    "publisher": "deneme",
+    "type": "Hikaye",
+    "description": "deneme",
+    "available": false,
+    "isbn": "978-605-822-457-5",
+    "cover": "blob:https://mustafaerkenekli.com/5e084828-d985-41ce-8cac-e5fd5335d5ab"
   }
 ]
