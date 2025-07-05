@@ -198,5 +198,15 @@
     "content": "deneme",
     "dedication": "deneme",
     "id": "1751379271598"
+  },
+  {
+    "id": "1751716515317",
+    "title": "deneme",
+    "date": "05.07.2025",
+    "category": "Memleket",
+    "image": "https://raw.githubusercontent.com/busebolova/mustafa-erkenekli-website/main/assets/poetry/1751716559034-lptzuh.webp",
+    "excerpt": "deneme",
+    "content": "denme şiiir \n",
+    "dedication": "Memleketime..."
   }
 ]
